@@ -1,0 +1,128 @@
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.exe
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.deps.json
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\ref\TreeSafe.dll
+<<<<<<< HEAD
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.exe
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.deps.json
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.runtimeconfig.json
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.genruntimeconfig.cache
+C:\Users\Admin\Documents\Repos\TreeSafe\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\ref\TreeSafe.dll
+=======
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.exe
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.deps.json
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.runtimeconfig.json
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\bin\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\TreeSafe.genruntimeconfig.cache
+C:\Users\Tian\OneDrive - University of Huddersfield\Documents\GitHub\TreeSafe-Password-Manager\TreeSafe\obj\Release\net6.0-windows\ref\TreeSafe.dll
+>>>>>>> 217ecc6512d4dd887c03db7dafe2c036c0988443
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\bin\Release\net6.0-windows\TreeSafe.exe
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\bin\Release\net6.0-windows\TreeSafe.deps.json
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\bin\Release\net6.0-windows\TreeSafe.runtimeconfig.json
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\bin\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\bin\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\TreeSafe.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TreeSafe-Password-Manager-a22b80c02b535ecc5677f05f3caa3047af11d4ea\TreeSafe\obj\Release\net6.0-windows\ref\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\bin\Release\net6.0-windows\TreeSafe.exe
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\bin\Release\net6.0-windows\TreeSafe.deps.json
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\bin\Release\net6.0-windows\TreeSafe.runtimeconfig.json
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\bin\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\bin\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\TreeSafe.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TreeSafe\TreeSafe\obj\Release\net6.0-windows\ref\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmAddEntry.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmCreateDatabase.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmLogin.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmMainPage.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.frmPasswordGenerator.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.Properties.Resources.resources
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\refint\TreeSafe.dll
+C:\Users\Admin\Desktop\TreeSafe\Source code\TreeSafe\obj\Release\net6.0-windows\TreeSafe.pdb
